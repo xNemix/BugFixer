@@ -52,7 +52,6 @@ namespace BugFixer
             else
             {
                 throw new InvalidInputException();
-                
             }
         }
     }
